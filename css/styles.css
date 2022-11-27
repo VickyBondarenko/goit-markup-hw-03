@@ -54,6 +54,10 @@ h6 {
   margin-right: auto;
   padding: 0 15px;
 }
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 /* Шапка */
 .page-header {
   display: flex;
@@ -124,7 +128,6 @@ h6 {
 /* Герой  */
 .hero {
   padding: 200px 452px;
-  margin-bottom: 94px;
 
   background-color: var(--background-dark-grey-color);
   text-align: center;
@@ -159,7 +162,6 @@ h6 {
 /* Переваги */
 .feature.list {
   display: flex;
-  margin-bottom: 94px;
 }
 .section-title {
   margin-bottom: 50px;
@@ -182,7 +184,7 @@ h6 {
 }
 /* Напрямки роботи */
 .works {
-  margin-bottom: 94px;
+  padding-top: 0;
 }
 
 .work {
@@ -193,7 +195,8 @@ h6 {
 }
 /* Команда */
 .teams {
-  padding: 94px 215px;
+  padding-right: 215px;
+  padding-left: 215px;
   background-color: var(--background-grey-color);
 }
 .team {
@@ -258,7 +261,6 @@ h6 {
 .btn.list {
   display: flex;
   justify-content: center;
-  margin-top: 94px;
   margin-bottom: 50px;
 }
 .btn .item + .item {
@@ -292,7 +294,6 @@ h6 {
 .project {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 94px;
 }
 .project-item {
   margin: 0;
