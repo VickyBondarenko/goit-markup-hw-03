@@ -10,8 +10,6 @@
 }
 
 body {
-  margin: 0 auto;
-
   background-color: var(--background-white-color);
   color: var(--secondary-color);
 
