@@ -192,8 +192,8 @@ h6 {
 }
 /* Команда */
 .teams {
-  padding-right: 215px;
-  padding-left: 215px;
+  /* padding-right: 215px;
+  padding-left: 215px; */
   background-color: var(--background-grey-color);
 }
 .team {
