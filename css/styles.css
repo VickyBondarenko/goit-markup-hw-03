@@ -131,7 +131,7 @@ h6 {
 }
 .hero-title {
   margin-bottom: 30px;
-
+  width: 696px;
   color: var(--background-white-color);
 
   font-weight: 900;
