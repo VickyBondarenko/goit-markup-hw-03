@@ -324,6 +324,7 @@ h6 {
   letter-spacing: 0.06em;
 }
 .project-text {
+  margin: 0;
   color: var(--secondary-color);
   font-size: 16px;
   line-height: 1.88;
